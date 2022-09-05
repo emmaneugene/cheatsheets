@@ -1,2 +1,2 @@
 # emmans-cheatsheets
-Cheatsheets I've created over the years. Mostly in pdf/md format
+Cheatsheets that I've either created or copied over the years. Mostly in pdf/md format :)
