@@ -8,4 +8,5 @@ Also happy to accept any contributions! Do send a PR or file an issue if you fin
 **Some other helpful cheatsheet resources:**
 
 [Cheat.sh](https://github.com/chubin/cheat.sh) - A cheatsheet on your command line
+
 [UseTheKeyboard](https://usethekeyboard.com/) - Comprehensive collection of shortcuts for Windows and MacOS applications
