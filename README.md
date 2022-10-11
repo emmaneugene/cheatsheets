@@ -5,7 +5,7 @@ This list will be updated regularly, so watch this space :)
 
 Also happy to accept any contributions! Do send a PR or file an issue if you find any errata.
 
-**Some other helpful cheatsheet resources:**
+**Other helpful resources:**
 
 [Cheat.sh](https://github.com/chubin/cheat.sh) - A cheatsheet on your command line
 
