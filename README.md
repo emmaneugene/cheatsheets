@@ -1,9 +1,9 @@
 # Cheatsheets
-This is my own effort to collate helpful cheatsheets and references that I've found incredibly useful. Most have been either created or copied over the years. Mostly in pdf/md format, but otherwise I'll try to make them as accessible as possible on all platforms.
+A good cheatsheet should provide a high-level overview of important concepts, helping to prompt recall or identify areas for review. I really enjoy creating cheatsheets to consolidate what I've learnt, so this is my own effort to collate helpful cheatsheets and references that I've found useful. I try my best to publish these in universally readable file formats on all platforms (PDF, MD, HTML).
 
 This list will be updated regularly, so watch this space :)
 
-Also happy to accept any contributions! Do send a PR or file an issue if you find any errata.
+Also happy to accept any contributions or corrections! Do send a PR or file an issue if you find any errata.
 
 **Other helpful resources:**
 
@@ -12,3 +12,5 @@ Also happy to accept any contributions! Do send a PR or file an issue if you fin
 [UseTheKeyboard](https://usethekeyboard.com/) - Comprehensive collection of shortcuts for Windows and MacOS applications
 
 [Roadmap.sh](https://roadmap.sh/) - Visual roadmaps to get you started on learning new languages, frameworks and skills in tech
+
+[X in Y minutes](https://learnxinyminutes.com/) - Community-driven overviews of various programming languages as well as DSA concepts
