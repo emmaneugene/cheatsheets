@@ -14,3 +14,5 @@ Also happy to accept any contributions or corrections! Do send a PR or file an i
 [Roadmap.sh](https://roadmap.sh/) - Visual roadmaps to get you started on learning new languages, frameworks and skills in tech
 
 [X in Y minutes](https://learnxinyminutes.com/) - Community-driven overviews of various programming languages as well as DSA concepts
+
+[Linux/POSIX commands](https://xmind.app/m/WwtB/#) - A nice overview of the most common Linux/POSIX commands
