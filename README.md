@@ -16,3 +16,5 @@ Also happy to accept any contributions or corrections! Do send a PR or file an i
 [X in Y minutes](https://learnxinyminutes.com/) - Community-driven overviews of various programming languages as well as DSA concepts
 
 [Command reference](https://ss64.com/) - Command line references for the most common shells, along with other helpful references
+
+[Tech interview handbook](https://www.techinterviewhandbook.org/) - Very useful for interview preparation
