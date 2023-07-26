@@ -7,14 +7,16 @@ Also happy to accept any contributions or corrections! Do send a PR or file an i
 
 ### Other helpful resources
 
-[Cheat.sh](https://github.com/chubin/cheat.sh) - A cheatsheet on your command line
+- [cheat.sh](https://github.com/chubin/cheat.sh), [tldr](https://github.com/tldr-pages/tldr) - Command-line friendly cheatsheets
 
-[UseTheKeyboard](https://usethekeyboard.com/) - Comprehensive collection of shortcuts for Windows and MacOS applications
+- [UseTheKeyboard](https://usethekeyboard.com/) - Comprehensive collection of shortcuts for Windows and MacOS applications
 
-[Roadmap.sh](https://roadmap.sh/) - Visual roadmaps to get you started on learning new languages, frameworks and skills in tech
+- [roadmap.sh](https://roadmap.sh/) - Visual roadmaps to get you started on learning new languages, frameworks and skills in tech
 
-[X in Y minutes](https://learnxinyminutes.com/) - Community-driven overviews of various programming languages as well as DSA concepts
+- [X in Y minutes](https://learnxinyminutes.com/) - Community-driven overviews of various programming languages as well as DSA concepts
 
-[Command reference](https://ss64.com/) - Command line references for the most common shells, along with other helpful references
+- [Command reference](https://ss64.com/) - Command line references for the most common shells
 
-[Tech interview handbook](https://www.techinterviewhandbook.org/) - Very useful for interview preparation
+- [Tech interview handbook](https://www.techinterviewhandbook.org/) - Very useful for interview preparation
+
+- [VisuAlgo](https://visualgo.net/en) - Visualizations and walkthroughs of common algorithms
