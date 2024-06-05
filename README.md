@@ -20,3 +20,5 @@ Also happy to accept any contributions or corrections! Do send a PR or file an i
 - [Tech interview handbook](https://www.techinterviewhandbook.org/) - Very useful for interview preparation
 
 - [VisuAlgo](https://visualgo.net/en) - Visualizations and walkthroughs of common algorithms
+
+- [WizardZines](https://wizardzines.com/) - Fun, interactive, free programming zines
