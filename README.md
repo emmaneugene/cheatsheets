@@ -1,11 +1,9 @@
 # Cheatsheets
-A good cheatsheet should provide a high-level overview of important concepts, helping to prompt recall or identify areas for review. I really enjoy creating cheatsheets to consolidate what I've learnt, so this is my own effort to collate helpful cheatsheets and references that I've found useful. I try my best to publish these in universally readable file formats on all platforms (PDF, MD, HTML).
+A good cheatsheet should provide a high-level overview of important concepts to prompt recall and identify areas for review. I'm quite a fan of creating learning references, so this is my own effort to collate cheatsheets that I've found useful. I try my best to make these available in PDF format.
 
-This list will be updated regularly, so watch this space :)
+Happy to accept any contributions or corrections! Do create a PR or issue if you find any errata.
 
-Also happy to accept any contributions or corrections! Do send a PR or file an issue if you find any errata.
-
-### Other helpful resources
+### Other resources you might like
 
 - [cheat.sh](https://github.com/chubin/cheat.sh), [tldr](https://github.com/tldr-pages/tldr) - Command-line friendly cheatsheets
 
