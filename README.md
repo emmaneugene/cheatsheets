@@ -11,7 +11,7 @@ Happy to accept any contributions or corrections! Do create a PR or issue if you
 
 - [roadmap.sh](https://roadmap.sh/) - Visual roadmaps to get you started on learning new languages, frameworks and skills in tech
 
-- [X in Y minutes](https://learnxinyminutes.com/) - Community-driven overviews of programming languages, frameworks and more
+- [X in Y minutes](https://learnxinyminutes.com/), [Devhints](https://devhints.io/) - Community-driven overviews of programming languages, frameworks and more
 
 - [VisuAlgo](https://visualgo.net/en) - Visualizations and walkthroughs of common algorithms
 
