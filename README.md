@@ -1,11 +1,10 @@
 # Cheatsheets
-A good cheatsheet should provide a high-level overview of important concepts to prompt recall and identify areas for review. I'm quite a fan of creating learning references, so this is my own effort to collate cheatsheets that I've found useful. I try my best to make these available in PDF format.
 
 Happy to accept any contributions or corrections! Do create a PR or issue if you find any errata.
 
-### Other resources you might like
+### Other useful resources
 
-- [cheat.sh](https://github.com/chubin/cheat.sh), [tldr](https://github.com/tldr-pages/tldr) - Command-line friendly cheatsheets
+- [cheat.sh](https://github.com/chubin/cheat.sh), [navi](https://github.com/denisidoro/navi), [tldr](https://github.com/tldr-pages/tldr) - Command-line friendly cheatsheets
 
 - [UseTheKeyboard](https://usethekeyboard.com/), [KeyCombiner](https://keycombiner.com/) - Comprehensive collections of shortcuts
 
